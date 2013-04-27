@@ -48,14 +48,16 @@ inverted word order:
 ================
 - sva paterns have inverted word order
   "Out went the bus" (transitive verb)
+
 - start with a negative element.
   "Not a word did they say."
 
 order of adjuncts : maner, place, time
 
 sequencing objects when there is more than one in the sentence. Indirect, direct, prepositional.
-  "I gave her an apple."
-  "I gave an apple to her."
+
+ - "I gave her an apple."
+ - "I gave an apple to her."
 
 Discontinuity.
 ==============
@@ -64,6 +66,7 @@ Discontinuity.
 
 discontinuity. seperation of two related clause elements.
 -  Defered preposition: "What is it based [on]."(Normally prepositions precede nouns, here it precedes nothing but it is a case of discontinuity, it is seperated from it's counterpart "what").
+
   "What he aspires to is beyond his reach."
 -  defered modifiers: "The question arises, whether to continue." (The attribute is positioned finally, discontinued from the head it modifies.) Without discontinuity this would be "The question whether to continue arises."
 
@@ -86,15 +89,27 @@ examples in handout
 =============================
 ![Excersizes](Excersizes.JPG)
 1. Direct word order. Declarative sentence.  (Emphasis of adjunct of maner, fronting)
+
 2. inversion. (copular, intransative verbs. inversion is typical)
+
 3. "for" is a defered preposition, discontinuity. 
+
 5. fronting of a adverbial of space. Direct word order.
+
 6. direct word order, declarative sentence
+
 7. discontinuity, verb and object displaced by adjunct of maner(acompanying circumstances)
+
 8. 
+
 9. discontinuity 
+
 10. 
+
 11. First clause: direct word order. Seccond clause: Inverted word order(interogative sentence). "the hell" causes discontinuity.
+
 12. inversion(due to negative element)
+
 13. 
+
 17. inversion due to an intransitive verb and fronting of the adjunct of space.

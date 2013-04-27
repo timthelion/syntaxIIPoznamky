@@ -1,13 +1,17 @@
 Syntax II
+=============
+[Infinitives](Infinitive1.JPG)!
+[Infinitives](Infinitive2.JPG)!
 Infinitive still bears nominal features.  It can take all sorts of syntactic features that are normally realized by nouns. It can take the subject function.  However, unlike some other non finite verb forms, infinitive in the subject is rather rare.  Realizes object functions, after transitive verbs.  "They heard the window bang." two interpretations SVO, SVOC.
+
 Subject compliment. "They are to blame."  "The examples appear to be false."
 
 "She came to see us." May be called an infinitive of purpose, but it is better refered to as an infinitive of goal.
 
 "We are so foolish to believe that." Infinitive of adjunct.
 
-Disjunct functions. " To change the subject."
-Conjunct functions "To sum up."
+ - Disjunct functions. " To change the subject."
+ - Conjunct functions "To sum up."
 
 "I'm not in a possition to decide the matter." attribute realized by an infinitve.
 
@@ -20,7 +24,8 @@ Apposition is another possible syntactic function. "Your ambition to become a pa
 
 The doer(subject) is different: "For him to pay the sum means nothing." The subject is "for him to pay the sum" 
 
-Transformation.
+Transformation
+---------
 "To interpret the message proved impossible." The verb is follwed by a compliment, and everything before is the subject.
 
 This is an overburdened subject.  "It proved impossible to interpret the message." Is less overburdened. This is an anticipatory 'it'. Semantic subject(real subject, notional subject) "to interpret the message"

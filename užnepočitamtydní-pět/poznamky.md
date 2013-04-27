@@ -23,6 +23,6 @@ Subordinators
 adverbial clauses
 ===============
 ![Adverbial Clauses](Adverbial Clauses.JPG)
-![Adverbial Clauses](Adverbial Clauses2.JPG)
+![Adverbial Clauses](AdverbialClauses2.JPG)
 
 How can a school, or for at matter, a publisher of educational texts, own a copyright on the materials that they teach.  Teaching, by it's very deffinition is the giving of knoweldge and how can you /give/ someone knowledge which you won't let them /have/ or /use/ how they please?

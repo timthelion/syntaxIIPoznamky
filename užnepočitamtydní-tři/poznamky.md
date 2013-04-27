@@ -1,7 +1,7 @@
 Syntax II
 ==============
-[Clauses](Clauses.JPG)!
-[Clauses](Clauses2.JPG)!
+![Clauses](Clauses.JPG)
+![Clauses](Clauses2.JPG)
 
 - Finite subordinate clauses.
 - Adverbial clauses

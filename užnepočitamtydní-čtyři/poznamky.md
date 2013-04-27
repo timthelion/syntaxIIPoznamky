@@ -2,8 +2,8 @@ Synatx II
 ========
 Direct Speech and Related Topics
 =========
-[DirectSpeech](DirectSpeech1.JPG)
-[DirectSpeech](DirectSpeech2.JPG)
+![DirectSpeech](DirectSpeech1.JPG)
+![DirectSpeech](DirectSpeech2.JPG)
 
 Repeating somebody elses speech or writing. 
   - Direct Speech/Thought "Where are you?" she asked. He wondered, "Does she still love me?"

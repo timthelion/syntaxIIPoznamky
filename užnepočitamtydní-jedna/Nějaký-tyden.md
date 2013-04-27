@@ -1,7 +1,7 @@
 Syntax II
 =============
-[Infinitives](Infinitive1.JPG)!
-[Infinitives](Infinitive2.JPG)!
+![Infinitives](Infinitive1.JPG)
+![Infinitives](Infinitive2.JPG)
 Infinitive still bears nominal features.  It can take all sorts of syntactic features that are normally realized by nouns. It can take the subject function.  However, unlike some other non finite verb forms, infinitive in the subject is rather rare.  Realizes object functions, after transitive verbs.  "They heard the window bang." two interpretations SVO, SVOC.
 
 Subject compliment. "They are to blame."  "The examples appear to be false."

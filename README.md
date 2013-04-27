@@ -1,4 +1,4 @@
-[Word Order](první tyden/poznamky.md)
+[Word Order](první tyden/Poznamky.md)
 
 [FSP 1](druhý a třetí tyden/druhý tyden.md)
 

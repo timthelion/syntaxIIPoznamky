@@ -2,7 +2,7 @@ Synatx II
 ========
 Direct Speech and Related Topics
 =========
-![DirectSpeech](DirectSpeech1.JPG)
+![DirectSpeech](DirectSpeech.JPG)
 ![DirectSpeech](DirectSpeech2.JPG)
 
 Repeating somebody elses speech or writing. 
